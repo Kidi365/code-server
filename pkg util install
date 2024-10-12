@@ -1,3 +1,5 @@
+asd
+asd
 # Coder
 
 To install and run code-server in a Coder workspace, we suggest using the `install.sh`
@@ -45,4 +47,7 @@ module "code-server" {
 ```
 
 If you run into issues, ask for help on the `coder/coder` [Discussions
-here](https://github.com/coder/coder/discussions).
+here](https://github.com/coder/coder/discussions)
+clear
+pkg install
+pgk core remove
